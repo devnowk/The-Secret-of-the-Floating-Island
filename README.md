@@ -1,5 +1,7 @@
 # The-Secret-of-the-Floating-Island
-하늘 섬의 비밀 졸업 게임 프로젝트입니다. (현재 용량이 5GB가 넘어가는 관계로 올라가지 않고 있습니다. 곧 문제를 해결하겠습니다)
+하늘 섬의 비밀 졸업 게임 프로젝트입니다. (현재 용량이 5GB가 넘어가는 관계로 프로젝트 파일은 올리기가 어렵습니다.)
+
+실행 방법 : The Scret of Floating Island_Build 파일을 모두 다운로드 후, Floating Island.exe 실행
 
 Unity 3D 2020.2.3f1 버전에서 제작하였습니다.
 
